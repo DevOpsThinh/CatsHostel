@@ -1,10 +1,22 @@
 # Concurrent Microservices with Ktor
 #### “Building a microservice using the Ktor framework, <br>and want this microservice to be reactive and to be as close to real life as possible.”
-(Alexey Soshin)
+<small><i>(Alexey Soshin)</i></small><br>
+#### <strong><i>The "CatsHostel" microservice should be able to</i></strong>:
+- Supply an endpoint we can ping to check whether the service is up & running;
+- List the cats currently in the shelter;
+- Provide us with a means to add new cats;
+- Making the test consistent;
+- Fetching entities;
+- Organizing routes in Ktor;
+- Achieving concurrency in Ktor.
+___
+<img src="img/cats_db_query.png" height="480"/><br>
 
-<img src="img/respond.png" height="320"/>
+<img src="img/respond.png" height="320"/> <img src="img/cats_respond.png" height="320"/>
 
 <img src="img/ServerTest.png" height="480"/>
+
+<img src="img/testing.png" height="480"/>
 
 ### Used  Software Info:
 - Kotlin v1.6.21 
