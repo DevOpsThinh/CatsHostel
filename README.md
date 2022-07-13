@@ -1,3 +1,4 @@
+<strong><em>Thanks for your reading, please give me a STAR!<em><strong>
 # Concurrent Microservices with Ktor
 #### “Building a microservice using the Ktor framework, <br>and want this microservice to be reactive and to be as close to real life as possible.”
 <small><i>(Alexey Soshin)</i></small><br>
